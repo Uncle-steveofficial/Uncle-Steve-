@@ -1,15 +1,3 @@
-📁 Project Structure
-
-uncle-steve/
-├── index.html
-├── style.css
-└── script.js
-
-
----
-
-1. index.html
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -106,8 +94,6 @@ footer {
     text-align: center;
     padding: 1rem;
     margin-top: 2rem;
-}
-script.js
 
 let priceHistory = [];
 let chart;
